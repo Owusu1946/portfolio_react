@@ -1,0 +1,42 @@
+ 
+"Develop the most advanced, modern, and lightweight developer portfolio in the world using **Next.js, TypeScript, and Tailwind CSS**. The portfolio must be visually stunning, highly interactive, and optimized for **<2 seconds load time**. It should showcase projects, skills, blog posts, and an interactive resume while maintaining a seamless **user experience (UX)** and smooth animations.  
+
+### **Core Requirements:**  
+- **Framework & Styling:** Next.js (App Router), TypeScript, Tailwind CSS  
+- **Performance & Optimization:**  
+  - Server-side rendering (SSR) & Static site generation (SSG)  
+  - Image optimization with `next/image`  
+  - Lazy loading and code splitting  
+  - Edge functions for lightning-fast response times  
+  - CDN and caching strategies  
+- **Tech Stack Enhancements:**  
+  - Framer Motion for fluid animations  
+  - ShadCN/UI for modern UI components  
+  - MDX for blog integration  
+  - Prisma or Supabase for a lightweight backend (if needed)  
+  - Redis for fast data fetching (optional)  
+  - SWR or React Query for real-time updates  
+  - Lighthouse 100% score (Performance, SEO, Accessibility)  
+  - WebAssembly (WASM) for ultra-fast execution of complex operations  
+
+### **Features:**  
+- **Hero Section:** A visually captivating introduction with dynamic text and 3D effects (e.g., R3F for WebGL)  
+- **Project Showcase:** Interactive cards with hover effects and detailed case studies  
+- **Blog System:** MDX-powered blog with syntax highlighting for code snippets  
+- **Resume & Skills:** Animated timeline for experience and skill progression  
+- **Dark Mode Support:** Auto theme switching based on system preference  
+- **Contact Form:** Integrated with Resend (email API) or Telegram bot for instant communication  
+- **Social Proof:** GitHub contributions, LinkedIn posts, and testimonials embedded dynamically  
+- **PWA Support:** The portfolio should be installable as a Progressive Web App  
+
+### **Performance Constraints:**  
+- Ensure **Time to First Byte (TTFB) < 500ms**  
+- **Load time < 2 seconds** on **4G mobile networks**  
+- Maintain a **minimal bundle size** (tree-shaking unused code)  
+
+### **Security & Best Practices:**  
+- Protect API routes with authentication (if required)  
+- Implement security headers (CSP, XSS protection)  
+- Optimize accessibility for screen readers (ARIA roles, alt text)  
+
+Deliver a **production-ready** Next.js app with a minimal, modern, and ultra-fast design, following best coding practices and clean architecture."  
